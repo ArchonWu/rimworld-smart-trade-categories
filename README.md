@@ -1,0 +1,1 @@
+# rimworld-smart-trade-categories
